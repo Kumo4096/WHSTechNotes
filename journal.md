@@ -1,6 +1,6 @@
 # August 27, 2024
 just created my github profile 
-# september 6, 2024
+# September 6, 2024
 there are many types of sensors on the sphero bots, like the acelerometor, pitch, and the light sensors
 the one that i want to focus on in the light sensor. 
 on the bot there is two diffeent light sensors. 
