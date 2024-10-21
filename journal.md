@@ -15,10 +15,12 @@ I find that the sphero is the easier of the two because its the first step into 
 they showed me coding doesnt have to be hard it can be as easy ad dragging in a couple blocks to make a little ball move
 pythin definilty gave you more controlbecasue it let you do specific things the sphero bolts didnt give you accsess too
 Because python coding is verry specific in the way that it works so you have to have the knowlage and since you have the power to do things specificly you can also do more things
-# October 7, 2024
+# October 15, 2024
 i reserched a softwear enginieer
  some fo the responcibilitys ta softwear engineer has it to code, debugg softwear, sofwear matintenance, ETC.
  you have to know python, java , java script, CSS, C++, etc
  for most jobs a bacholers is requied for many of the enry level jobs, but you can get a masters of you are looking for something more chalenging
  there are many oppertunitys for growth especily in this day and age of techlology
  i would like to know that basics of computer science and just expoler my oppertunitys that i can have for college so im glad that ther is something i can try and figure out on my own
+# October 21, 2024
+ai is definitly a more recent topic therse good and bad sides of artifical intenigence Chat GPT is an exmaple of a good ai itw one that can help with simple questions and basic answers that can help with school owrk if you so chose. on the other hand there is some forms tha can be possibly dangerous Think ulton from marvel this is something we would like to avoid creating one like him so nothing dangerous can happen.
