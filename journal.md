@@ -24,3 +24,5 @@ i reserched a softwear enginieer
  i would like to know that basics of computer science and just expoler my oppertunitys that i can have for college so im glad that ther is something i can try and figure out on my own
 # October 21, 2024
 ai is definitly a more recent topic therse good and bad sides of artifical intenigence Chat GPT is an exmaple of a good ai itw one that can help with simple questions and basic answers that can help with school owrk if you so chose. on the other hand there is some forms tha can be possibly dangerous Think ulton from marvel this is something we would like to avoid creating one like him so nothing dangerous can happen.
+# October 28, 2024
+it effects not only the votong process but how we lean about the canadates as well. Most of the information we learn is from the internet. Wether it be videos, articles, websites, ETC. its a powerfull tool and we wouldnt have it without computer science. 
