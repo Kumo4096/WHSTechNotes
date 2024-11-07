@@ -26,3 +26,8 @@ i reserched a softwear enginieer
 ai is definitly a more recent topic therse good and bad sides of artifical intenigence Chat GPT is an exmaple of a good ai itw one that can help with simple questions and basic answers that can help with school owrk if you so chose. on the other hand there is some forms tha can be possibly dangerous Think ulton from marvel this is something we would like to avoid creating one like him so nothing dangerous can happen.
 # October 28, 2024
 it effects not only the votong process but how we lean about the canadates as well. Most of the information we learn is from the internet. Wether it be videos, articles, websites, ETC. its a powerfull tool and we wouldnt have it without computer science. 
+# November 4, 2024
+It is important to protect you personal and sensitive information because it can destroy your life if it gets out many difffrent things can happen to you 
+firstly you can not put your personal informaion in the website but to ensure it says there is to not put in in to websites that arent secure
+no i have not ive always been secure with my information 
+you can use protected programs tat are trusted by many while you can still share you information otherwise it just makes sure that there is nothing getting in you way of keeping you information safe
