@@ -31,3 +31,7 @@ It is important to protect you personal and sensitive information because it can
 firstly you can not put your personal informaion in the website but to ensure it says there is to not put in in to websites that arent secure
 no i have not ive always been secure with my information 
 you can use protected programs tat are trusted by many while you can still share you information otherwise it just makes sure that there is nothing getting in you way of keeping you information safe
+# January 8, 2025
+1 The thing i enjoyed the most was definitly the people in the class i love having my firends around me it makes the classroom  experience much more enjoyable 
+2 i would like to explore more coding lessions in python definitly want to learn some more stuff about python
+3im not really intrested in any certifications inn the class but i would like to knoww that basics of coding and how to at least get started on simple tasks
