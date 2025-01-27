@@ -37,3 +37,10 @@ you can use protected programs tat are trusted by many while you can still share
 3im not really intrested in any certifications inn the class but i would like to knoww that basics of coding and how to at least get started on simple tasks
 # january 22, 2025
 i think the goverment having the ability to ban certian app and techlology is a violation of the fist amendment rights, but i digress. there is only one reason why tik tok got banned in the first place its because the us govermtn dosent trust the chinese goverment. tik tok parent company byte dance is a chiniese company so the SCOTUS is wary on the idea of tik tok having acsess to data to create the algarithm. i think a god policy to implement is to share orivatly on how the data is collected. alotho i do see a isue with that and not anwating to give away the algaritm but you can always make the ting not public altho im no to sure how it works. we cant atake it and lern from it if we want to have a popluar app all around the oworld its imporstant to have good relationships with the counts that the appp is going to be in.
+# january 22, 2025
+|name|car|mistake|
+|-----|-------|----------------------------------|
+|jimmy|Honda civic|Drilled a hole in the gas tank|
+|kayla|GMC sierra|Fixed the wron problem|
+|bart|Toyota corolla|Left a stain on the carpet|
+|Harrison|Subaru Forester|Left the oil cap off|
