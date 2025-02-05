@@ -44,3 +44,5 @@ i think the goverment having the ability to ban certian app and techlology is a 
 |kayla|GMC sierra|Fixed the wron problem|
 |bart|Toyota corolla|Left a stain on the carpet|
 |Harrison|Subaru Forester|Left the oil cap off|
+# February 3, 2025
+air traafic control systems are some of the most important peices of technonolgy we have avaliable today. they manage thousands of flights with many diffrent countries every single day. Its air trafic controls job to direct planes to certian airports so they can land safley and not in the way of any people or other aircrafts that might be present at the runway at that time. this is the best way the world has found to attempt to try and direct the flow of airtrafic so they can all be safe flying around the world and no more accedints happen like the ones this past week
